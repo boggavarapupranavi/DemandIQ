@@ -1,0 +1,51 @@
+product_id,product_name,shelf_life_days,category
+PROD001,test,3,dairy
+PROD002,Whole Wheat Bread,5,Bakery
+PROD003,Organic Bananas,4,Fruits
+PROD004,Cheddar Cheese,14,Dairy
+PROD005,Tomatoes,5,Vegetables
+PROD006,Basmati Rice,365,Grains
+PROD007,Orange Juice,7,Beverages
+PROD008,Greek Yogurt,10,Dairy
+PROD009,Apples,15,Fruits
+PROD010,Brown Eggs,10,Dairy
+PROD011,Spinach,3,Vegetables
+PROD012,Carrots,10,Vegetables
+PROD013,Potatoes,30,Vegetables
+PROD014,Bottled Water,730,Beverages
+PROD015,Peanut Butter,365,Pantry
+PROD016,Strawberries,3,Fruits
+PROD017,Ground Beef,5,Meat
+PROD018,Chicken Breast,5,Meat
+PROD019,Salmon Fillet,4,Meat
+PROD020,Frozen Pizza,180,Frozen
+PROD021,Butter,90,Dairy
+PROD022,Cream Cheese,60,Dairy
+PROD023,Corn Flakes,365,Pantry
+PROD024,Orange,10,Fruits
+PROD025,Lettuce,5,Vegetables
+PROD026,Onions,30,Vegetables
+PROD027,Grapes,7,Fruits
+PROD028,Cucumber,5,Vegetables
+PROD029,Tofu,7,Dairy
+PROD030,Soy Milk,10,Dairy
+PROD031,Coffee,365,Beverages
+PROD032,Tea Bags,730,Beverages
+PROD033,Mayonnaise,180,Pantry
+PROD034,Chili Sauce,365,Pantry
+PROD035,Chocolate,180,Snacks
+PROD036,Chips,90,Snacks
+PROD037,Noodles,365,Pantry
+PROD038,Oats,365,Pantry
+PROD039,Avocado,5,Fruits
+PROD040,Blueberries,3,Fruits
+PROD041,Cottage Cheese,7,Dairy
+PROD042,Mozzarella,10,Dairy
+PROD043,Ice Cream,365,Frozen
+PROD044,Pork Chops,5,Meat
+PROD045,Cereal Bars,180,Snacks
+PROD046,Pasta,730,Pantry
+PROD047,Tomato Sauce,365,Pantry
+PROD048,Green Beans,7,Vegetables
+PROD049,Peas,7,Vegetables
+PROD050,Energy Drink,180,Beverages
